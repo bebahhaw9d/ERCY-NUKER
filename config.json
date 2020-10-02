@@ -1,0 +1,9 @@
+{
+    "token": "TOKEN",
+    "password": "PASSWORD",
+    "prefix": "PREFIX",
+    
+
+    "stream_url": "https://twitch.tv/ercy",
+    "tts_language": "en"
+}
