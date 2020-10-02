@@ -1,7 +1,7 @@
 {
-    "token": "TOKEN",
+    "token": "",
     "password": "PASSWORD",
-    "prefix": "PREFIX",
+    "prefix": "x",
     
 
     "stream_url": "https://twitch.tv/ercy",
